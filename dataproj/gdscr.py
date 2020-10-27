@@ -14,7 +14,7 @@ def get_jobs(keyword, num_jobs, verbose, sleep_time):
 
     # Change the path to where chromedriver is in your home folder.
     driver = webdriver.Chrome(
-        executable_path="D:/Pycharm/fproj/chromedriver", options=options)
+        executable_path="D:/Pycharm/dataproj/chromedriver", options=options)
     driver.set_window_size(1120, 1000)
 
     url = 'https://www.glassdoor.co.uk/Job/us-' + keyword + '-jobs-SRCH_IL.0,2_IN1_KO3,20.htm'
