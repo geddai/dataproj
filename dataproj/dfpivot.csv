@@ -1,0 +1,70 @@
+,Rating,Industry,Sector,Ownership,Bil_Mil,Company,Company_Age,State,Git_job,Python_job,C_job,SQL_job,Job,Rank,Avg_Sal
+0,3.5,Computer Hardware & Software,Information Technology,Private,0,Derive Systems,13,FL,0,0,1,1,Software Engineer,Intermediate,63.5
+1,3.6,Enterprise Software & Network Solutions,Information Technology,Public,1,"Alteryx, Inc.",23,CO,1,0,1,0,Software Engineer,Intermediate,84.0
+2,3.9,Lending,Finance,Private,2,Quicken Loans,35,MI,0,0,1,0,Software Engineer,Senior,74.0
+3,4.2,Research & Development,Business Services,Public,2,ManTech International Corporation,52,MD,0,1,1,0,Software Engineer,Senior,106.0
+4,3.6,Enterprise Software & Network Solutions,Information Technology,Private,1,Docuware Corporation,32,NY,1,0,0,1,Service Engineer,Intermediate,54.5
+5,2.6,Computer Hardware & Software,Information Technology,Private,1,Relias,8,NC,0,0,1,1,Software Engineer,Senior,86.5
+6,3.8,Aerospace & Defense,Aerospace & Defense,Private,1,TMA,27,CO,1,0,0,0,Software Engineer,Junior,61.5
+7,2.9,Wholesale,Business Services,Private,0,Trademark Global LLC,20,OH,1,0,1,1,N/A,Senior,61.0
+8,3.6,Computer Hardware & Software,Information Technology,Private,2,Refinitiv,2,MO,1,0,1,1,Software Engineer,Senior,67.0
+9,3.6,K-12 Education,Education,Private,0,Edgenuity,22,AZ,1,0,1,1,Software Engineer,Senior,109.5
+10,3.9,Electrical & Electronic Manufacturing,Manufacturing,Private,1,DC Group,28,MN,0,0,0,0,Service Engineer,Intermediate,54.5
+11,4.4,Banks & Credit Unions,Finance,Private,0,ClearOne Advantage,12,MD,1,1,1,1,Software Engineer,Senior,75.5
+12,3.6,Wholesale,Business Services,Private,0,Uline,40,WI,0,0,0,1,Software Developer,Intermediate,82.5
+13,3.7,"Hotels, Motels, & Resorts",Travel & Tourism,Public,2,Choice Hotels,81,AZ,0,0,0,0,Software Engineer,Intermediate,138.0
+14,3.8,Insurance Carriers,Insurance,Private,1,Seven Corners,27,IN,0,0,1,1,Software Engineer,Intermediate,86.0
+15,4.3,Lending,Finance,Private,1,Veterans First Mortgage,35,UT,0,0,0,0,Software Engineer,Intermediate,67.5
+16,3.5,Aerospace & Defense,Aerospace & Defense,Public,2,L3Harris Technologies,1,UT,0,0,1,0,Software Engineer,Intermediate,71.5
+17,3.3,Home Furniture & Housewares Stores,Retail,Subsidiary or Business Segment,2,Nebraska Furniture Mart,83,NE,1,0,0,1,Software Engineer,Intermediate,58.5
+18,4.2,Building & Personnel Services,Business Services,Private,0,RoadRunner Recycling,6,PA,0,0,0,0,Software Engineer,Intermediate,64.5
+19,4.4,Aerospace & Defense,Aerospace & Defense,Private,1,Testek Solutions,51,MI,0,0,0,0,Software Engineer,Intermediate,72.0
+20,4.4,Aerospace & Defense,Aerospace & Defense,Private,1,Testek Solutions,51,MI,0,0,0,0,Software Engineer,Intermediate,72.0
+21,3.7,Logistics & Supply Chain,Transportation & Logistics,Private,1,BNSF Logistics,18,OH,1,0,1,1,Software Engineer,Intermediate,48.0
+22,3.6,Enterprise Software & Network Solutions,Information Technology,Private,1,Abrigo,19,NC,0,0,1,1,Software Engineer,Intermediate,80.0
+23,4.2,Video Games,Media,Public,2,Nintendo of America Inc.,0,WA,0,1,1,1,Software Engineer,Intermediate,91.0
+24,3.9,Aerospace & Defense,Aerospace & Defense,Private,1,Corvid Technologies LLC,16,AL,0,0,0,0,Software Engineer,Intermediate,92.0
+25,4.3,Enterprise Software & Network Solutions,Information Technology,Private,0,MemberClicks,22,GA,0,0,0,0,Software Engineer,Intermediate,63.5
+26,4.0,Real Estate,Real Estate,Private,1,Clear Capital,19,NV,1,0,0,0,Software Engineer,Intermediate,105.0
+27,3.8,K-12 Education,Education,Nonprofit Organization,1,New Visions Central Office,31,NY,0,0,0,1,Software Engineer,Intermediate,103.5
+28,3.9,IT Services,Information Technology,Private,2,Avanade,20,IL,1,0,1,1,Software Engineer,Senior,122.5
+29,2.8,K-12 Education,Education,Nonprofit Organization,1,ACT,61,IA,1,1,0,1,Software Engineer,Senior,72.5
+30,3.1,Electrical & Electronic Manufacturing,Manufacturing,Public,2,Sanmina Corporation,40,AL,0,0,0,0,Software Engineer,Intermediate,55.5
+31,4.2,Insurance Carriers,Insurance,Public,1,Investors Title Company,47,NC,0,0,1,1,Software Engineer,Intermediate,64.5
+32,3.7,Computer Hardware & Software,Information Technology,Private,1,SugarCRM,16,GA,0,0,1,0,Software Engineer,Intermediate,75.0
+33,3.6,Banks & Credit Unions,Finance,Public,2,"Jack Henry and Associates, Inc.",44,AL,0,0,1,1,Software Engineer,Intermediate,60.0
+34,4.0,Financial Transaction Processing,Finance,Private,1,Airlines Reporting Corporation,36,FL,1,1,0,1,Software Engineer,Intermediate,82.5
+35,3.8,Computer Hardware & Software,Information Technology,Subsidiary or Business Segment,2,"Epson America, Inc",45,CA,1,1,0,1,Software Engineer,Senior,136.0
+36,3.4,Computer Hardware & Software,Information Technology,Private,1,Social Solutions,20,TX,1,0,1,0,Software Engineer,Intermediate,61.5
+37,4.1,Energy,"Oil, Gas, Energy & Utilities",Government,2,PNNL,55,WA,0,1,0,1,Software Engineer,Intermediate,84.0
+38,3.2,-1,-1,Private,1,Abaco Systems,0,AL,1,0,0,0,Systems Engineer,Intermediate,99.0
+39,3.6,Computer Hardware & Software,Information Technology,Private,0,Brain Corp,11,CA,0,1,1,0,Software Engineer,Intermediate,83.0
+40,3.3,Computer Hardware & Software,Information Technology,Private,1,NAVEX Global,8,OR,0,0,1,1,Software Engineer,Intermediate,73.0
+41,3.5,Health Care Products Manufacturing,Manufacturing,Public,1,Accuray,30,CA,1,0,1,0,Software Engineer,Intermediate,95.5
+42,2.9,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Private,1,Nova Biomedical,43,MA,0,0,1,0,Software Engineer,Intermediate,69.5
+43,4.1,Architectural & Engineering Services,Business Services,Private,1,Zenetex LLC,21,FL,1,1,1,0,Software Engineer,Senior,86.5
+44,4.1,Utilities,"Oil, Gas, Energy & Utilities",Subsidiary or Business Segment,1,Neptune Technology Group,128,AL,1,0,1,0,Software Engineer,Intermediate,65.5
+45,3.3,Insurance Carriers,Insurance,Public,1,SelectQuote,35,KS,1,0,1,1,Software Engineer,Intermediate,58.5
+46,2.8,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Public,1,GeneDx,0,MD,1,1,0,1,Software Engineer,Senior,94.5
+47,3.9,Real Estate,Real Estate,Public,2,Extra Space,43,UT,1,0,0,1,Software Engineer,Intermediate,57.5
+48,3.6,Aerospace & Defense,Aerospace & Defense,Subsidiary or Business Segment,2,"General Dynamics Mission Systems, Inc",68,IN,0,0,1,1,Software Engineer,Junior,58.0
+49,4.3,Enterprise Software & Network Solutions,Information Technology,Private,0,SentryOne,16,NC,1,0,1,1,N/A,Intermediate,78.0
+50,4.6,Enterprise Software & Network Solutions,Information Technology,Private,0,Lever,8,IL,0,0,0,0,Software Engineer,Intermediate,95.0
+51,4.9,IT Services,Information Technology,Private,1,Mavens,13,IL,0,0,0,0,Software Engineer,Intermediate,70.0
+52,3.0,Construction,"Construction, Repair & Maintenance",Private,1,The Middlesex Corporation,48,MA,0,0,0,0,N/A,Senior,75.5
+53,3.1,Computer Hardware & Software,Information Technology,Private,1,The Great Plains Laboratory,0,KS,0,0,1,1,Software Developer,Intermediate,53.5
+54,3.6,Automotive Parts & Accessories Stores,Retail,Private,2,RealTruck - ECommerce,22,FL,1,0,0,0,Software Engineer,Intermediate,59.5
+55,3.7,IT Services,Information Technology,Private,1,NCI Information Systems Inc.,31,MD,0,0,0,0,Software Engineer,Intermediate,89.5
+56,2.7,Trucking,Transportation & Logistics,Public,1,E. W. Wylie Corporation,82,ND,1,0,0,1,Systems Engineer,Intermediate,53.0
+57,2.1,K-12 Education,Education,Private,0,Questar Assessment,44,MN,1,0,1,1,Software Engineer,Intermediate,69.5
+58,2.9,Consulting,Business Services,Private,1,"Metrica, Inc.",36,VA,0,0,0,1,Systems Engineer,Intermediate,51.0
+59,4.9,Consulting,Business Services,Private,1,Visvero,17,PA,0,0,0,0,Software Engineer,Intermediate,84.0
+60,4.4,Banks & Credit Unions,Finance,Private,0,ClearOne Advantage,12,MD,0,0,1,1,Software Developer,Intermediate,56.0
+61,3.2,Health Care Services & Hospitals,Health Care,Private,0,Zelis,4,MO,0,0,1,1,Software Engineer,Intermediate,71.5
+62,3.4,Other Retail Stores,Retail,Private,0,"Blain Supply, Inc.",65,WI,1,0,1,1,Software Engineer,Senior,89.0
+63,4.5,Metals Brokers,Mining & Metals,Subsidiary or Business Segment,0,The David J. Joseph Company,135,OH,0,0,1,1,Software Engineer,Intermediate,71.5
+64,4.0,Banks & Credit Unions,Finance,Public,2,Capital One,26,VA,1,1,0,0,Software Engineer,Intermediate,105.0
+65,3.6,Aerospace & Defense,Aerospace & Defense,Private,2,Peraton,3,MD,0,0,0,1,Software Engineer,Intermediate,95.0
+66,3.4,Other Retail Stores,Retail,Private,0,"Blain Supply, Inc.",65,WI,1,0,1,1,Software Engineer,Senior,89.0
+67,4.5,Metals Brokers,Mining & Metals,Subsidiary or Business Segment,0,The David J. Joseph Company,135,OH,0,0,1,1,Software Engineer,Intermediate,71.5
+68,4.2,Colleges & Universities,Education,College / University,2,Johns Hopkins University,144,MD,0,0,1,1,Software Engineer,Intermediate,74.5

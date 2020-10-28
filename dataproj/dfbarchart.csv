@@ -1,0 +1,70 @@
+,Job Title,Rating,Industry,Sector,Ownership,Avg_Sal,State,Git_job,Python_job,C_job,SQL_job,Rank
+0,Software Engineer,3.5,Computer Hardware & Software,Information Technology,Private,63.5,FL,0,0,1,1,Intermediate
+1,Software Engineer,3.6,Enterprise Software & Network Solutions,Information Technology,Public,84.0,CO,1,0,1,0,Intermediate
+2,Senior Software Engineer,3.9,Lending,Finance,Private,74.0,MI,0,0,1,0,Senior
+3,Principal Software Engineer,4.2,Research & Development,Business Services,Public,106.0,MD,0,1,1,0,Senior
+4,Professional Services Engineer,3.6,Enterprise Software & Network Solutions,Information Technology,Private,54.5,NY,1,0,0,1,Intermediate
+5,Senior Software Engineer,2.6,Computer Hardware & Software,Information Technology,Private,86.5,NC,0,0,1,1,Senior
+6,Junior Software Engineer,3.8,Aerospace & Defense,Aerospace & Defense,Private,61.5,CO,1,0,0,0,Junior
+7,eCommerce B2B Integration Lead Engineer.,2.9,Wholesale,Business Services,Private,61.0,OH,1,0,1,1,Senior
+8,Senior Software Engineer,3.6,Computer Hardware & Software,Information Technology,Private,67.0,MO,1,0,1,1,Senior
+9,Senior Software Engineer,3.6,K-12 Education,Education,Private,109.5,AZ,1,0,1,1,Senior
+10,Field Service Engineer,3.9,Electrical & Electronic Manufacturing,Manufacturing,Private,54.5,MN,0,0,0,0,Intermediate
+11,Senior Software Engineer,4.4,Banks & Credit Unions,Finance,Private,75.5,MD,1,1,1,1,Senior
+12,Associate Software Developer,3.6,Wholesale,Business Services,Private,82.5,WI,0,0,0,1,Intermediate
+13,"Manager, Software Engineering",3.7,"Hotels, Motels, & Resorts",Travel & Tourism,Public,138.0,AZ,0,0,0,0,Intermediate
+14,Software Engineer,3.8,Insurance Carriers,Insurance,Private,86.0,IN,0,0,1,1,Intermediate
+15,Salesforce Advanced Software Engineer,4.3,Lending,Finance,Private,67.5,UT,0,0,0,0,Intermediate
+16,Software Engineer - TS/SCI Clearance Required Virtual Hiring Event,3.5,Aerospace & Defense,Aerospace & Defense,Public,71.5,UT,0,0,1,0,Intermediate
+17,Software Engineer - Adobe Multi Solutions - Remote,3.3,Home Furniture & Housewares Stores,Retail,Subsidiary or Business Segment,58.5,NE,1,0,0,1,Intermediate
+18,Software Engineer,4.2,Building & Personnel Services,Business Services,Private,64.5,PA,0,0,0,0,Intermediate
+19,Software Engineer,4.4,Aerospace & Defense,Aerospace & Defense,Private,72.0,MI,0,0,0,0,Intermediate
+20,Software Engineer,4.4,Aerospace & Defense,Aerospace & Defense,Private,72.0,MI,0,0,0,0,Intermediate
+21,Software Engineer,3.7,Logistics & Supply Chain,Transportation & Logistics,Private,48.0,OH,1,0,1,1,Intermediate
+22,Software Engineer,3.6,Enterprise Software & Network Solutions,Information Technology,Private,80.0,NC,0,0,1,1,Intermediate
+23,CONTRACT - Software Engineer (Analytics) (NTD),4.2,Video Games,Media,Public,91.0,WA,0,1,1,1,Intermediate
+24,Software Engineer II,3.9,Aerospace & Defense,Aerospace & Defense,Private,92.0,AL,0,0,0,0,Intermediate
+25,Software Engineer,4.3,Enterprise Software & Network Solutions,Information Technology,Private,63.5,GA,0,0,0,0,Intermediate
+26,Software Engineer - ColdFusion,4.0,Real Estate,Real Estate,Private,105.0,NV,1,0,0,0,Intermediate
+27,Software Engineer,3.8,K-12 Education,Education,Nonprofit Organization,103.5,NY,0,0,0,1,Intermediate
+28,Future Opportunity: Senior Back-End Software Engineer,3.9,IT Services,Information Technology,Private,122.5,IL,1,0,1,1,Senior
+29,Senior Software Engineer,2.8,K-12 Education,Education,Nonprofit Organization,72.5,IA,1,1,0,1,Senior
+30,Software Engineer,3.1,Electrical & Electronic Manufacturing,Manufacturing,Public,55.5,AL,0,0,0,0,Intermediate
+31,Software Engineer,4.2,Insurance Carriers,Insurance,Public,64.5,NC,0,0,1,1,Intermediate
+32,Software Engineer,3.7,Computer Hardware & Software,Information Technology,Private,75.0,GA,0,0,1,0,Intermediate
+33,Software Engineer,3.6,Banks & Credit Unions,Finance,Public,60.0,AL,0,0,1,1,Intermediate
+34,Software Engineer,4.0,Financial Transaction Processing,Finance,Private,82.5,FL,1,1,0,1,Intermediate
+35,Senior Software Engineer,3.8,Computer Hardware & Software,Information Technology,Subsidiary or Business Segment,136.0,CA,1,1,0,1,Senior
+36,Software Engineer,3.4,Computer Hardware & Software,Information Technology,Private,61.5,TX,1,0,1,0,Intermediate
+37,Software Engineer,4.1,Energy,"Oil, Gas, Energy & Utilities",Government,84.0,WA,0,1,0,1,Intermediate
+38,Systems Engineer,3.2,-1,-1,Private,99.0,AL,1,0,0,0,Intermediate
+39,"Software Engineer, Navigation",3.6,Computer Hardware & Software,Information Technology,Private,83.0,CA,0,1,1,0,Intermediate
+40,Software Engineer,3.3,Computer Hardware & Software,Information Technology,Private,73.0,OR,0,0,1,1,Intermediate
+41,Software Engineer,3.5,Health Care Products Manufacturing,Manufacturing,Public,95.5,CA,1,0,1,0,Intermediate
+42,Software Engineer,2.9,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Private,69.5,MA,0,0,1,0,Intermediate
+43,Senior Software Engineer,4.1,Architectural & Engineering Services,Business Services,Private,86.5,FL,1,1,1,0,Senior
+44,Software Engineer - Applications,4.1,Utilities,"Oil, Gas, Energy & Utilities",Subsidiary or Business Segment,65.5,AL,1,0,1,0,Intermediate
+45,Software Engineer II,3.3,Insurance Carriers,Insurance,Public,58.5,KS,1,0,1,1,Intermediate
+46,Senior Software Engineer,2.8,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Public,94.5,MD,1,1,0,1,Senior
+47,Software Engineer,3.9,Real Estate,Real Estate,Public,57.5,UT,1,0,0,1,Intermediate
+48,Junior Software Engineer,3.6,Aerospace & Defense,Aerospace & Defense,Subsidiary or Business Segment,58.0,IN,0,0,1,1,Junior
+49,Software Development Engineer,4.3,Enterprise Software & Network Solutions,Information Technology,Private,78.0,NC,1,0,1,1,Intermediate
+50,Software Engineer,4.6,Enterprise Software & Network Solutions,Information Technology,Private,95.0,IL,0,0,0,0,Intermediate
+51,Software Engineer - Salesforce.com,4.9,IT Services,Information Technology,Private,70.0,IL,0,0,0,0,Intermediate
+52,Lead Scheduling Engineer,3.0,Construction,"Construction, Repair & Maintenance",Private,75.5,MA,0,0,0,0,Senior
+53,LIMS Application Developer,3.1,Computer Hardware & Software,Information Technology,Private,53.5,KS,0,0,1,1,Intermediate
+54,Software Engineer Backend,3.6,Automotive Parts & Accessories Stores,Retail,Private,59.5,FL,1,0,0,0,Intermediate
+55,Software Engineer,3.7,IT Services,Information Technology,Private,89.5,MD,0,0,0,0,Intermediate
+56,IT Network and System Engineer,2.7,Trucking,Transportation & Logistics,Public,53.0,ND,1,0,0,1,Intermediate
+57,Software Engineer,2.1,K-12 Education,Education,Private,69.5,MN,1,0,1,1,Intermediate
+58,Systems Engineer,2.9,Consulting,Business Services,Private,51.0,VA,0,0,0,1,Intermediate
+59,Software Engineer,4.9,Consulting,Business Services,Private,84.0,PA,0,0,0,0,Intermediate
+60,Software Developer,4.4,Banks & Credit Unions,Finance,Private,56.0,MD,0,0,1,1,Intermediate
+61,Software Engineer,3.2,Health Care Services & Hospitals,Health Care,Private,71.5,MO,0,0,1,1,Intermediate
+62,Senior Software Engineer,3.4,Other Retail Stores,Retail,Private,89.0,WI,1,0,1,1,Senior
+63,Software Engineer,4.5,Metals Brokers,Mining & Metals,Subsidiary or Business Segment,71.5,OH,0,0,1,1,Intermediate
+64,Software Engineer,4.0,Banks & Credit Unions,Finance,Public,105.0,VA,1,1,0,0,Intermediate
+65,Software Engineer,3.6,Aerospace & Defense,Aerospace & Defense,Private,95.0,MD,0,0,0,1,Intermediate
+66,Senior Software Engineer,3.4,Other Retail Stores,Retail,Private,89.0,WI,1,0,1,1,Senior
+67,Software Engineer,4.5,Metals Brokers,Mining & Metals,Subsidiary or Business Segment,71.5,OH,0,0,1,1,Intermediate
+68,Software Engineer,4.2,Colleges & Universities,Education,College / University,74.5,MD,0,0,1,1,Intermediate
